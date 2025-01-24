@@ -1,9 +1,7 @@
-## Hi! I'm Nagira Yuta👋
+## Hi! I'm Yuta👋
 
 
 
-- 🔭 I’m student for KUT
+- 🔭 I’m student
 - 🌱 I’m currently learning econometrics & R
-- 👯 I’m looking to collaborate on yours
-- 🤔 I’m looking for help with english
 - 💬 Ask me about econometrics
